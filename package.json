@@ -1,5 +1,6 @@
 {
   "name": "countdownchamp",
+  "homepage" : "http://jmirav.github.io/stopwatch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
